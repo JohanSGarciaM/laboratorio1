@@ -25,8 +25,7 @@ Una persona responsable,cumplida,respetuosa y honesta.Con actitud de liderazgo y
 1. Jugar Baloncesto
 2. Ver Series
 3. Jugar Videojuegos
-4. Jugar con las mujeres
-5. Viajar
+4. Viajar
 
 # Mis lugares de Colombia favoritos:
 * Santa Marta
