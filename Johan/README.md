@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-
 # Nombre :
 
 Johan Sebastian Garcia Martinez
 
 # Edad :
 
-**#20 años**
+**20 años**
 
 # Estatura:
 
