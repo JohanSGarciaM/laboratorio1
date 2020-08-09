@@ -53,6 +53,14 @@ print(lista)
 ```
 
 
+# SOLUCION DE LEARNGITBRANCH  MAIN:
+
+![](main.jpg)
+
+# SOLUCION DE LEARNGITBRANCH REMOTE:
+
+![](remoto.jpg)
+
 
 
 
