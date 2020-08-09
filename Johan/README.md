@@ -15,18 +15,20 @@ Johan Sebastian Garcia Martinez
 
 *14*
 
+# Informacion Personal :
+
 Interesado en el area de gerencia de proyectos y desarrollo de software.
 
 Una persona responsable,cumplida,respetuosa y honesta.Con actitud de liderazgo y habilidad de trabajo en equipo.
 
-#Actividades favoritas :
+# Actividades favoritas :
 1. Jugar Baloncesto
 2. Ver Series
 3. Jugar Videojuegos
 4. Jugar con las mujeres
 5. Viajar
 
-#Mis lugares de Colombia favoritos:
+# Mis lugares de Colombia favoritos:
 * Santa Marta
 * Cartagena
 * Medellin
@@ -37,7 +39,7 @@ Pueden Conocer mas sobre mi en mis redes sociales: [Facebook](https://web.facebo
 
 Mi ultimo trabajo de desarrollo web fue para la empresa **Extintores Factory**
 
-![](C:\Users\Lenovo\Desktop\CDA_Front-end\ProyectoFrogColors\Sources\logotipo.jpeg)
+![](logotipo.jpeg)
 
 
 ## Y este es el método de ordenamiento que uso con mas frecuencia:
